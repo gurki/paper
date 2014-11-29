@@ -1,4 +1,4 @@
 various
 =======
 
-collection of small projects and finished reports and papers
+collection of small projects, reports and papers
