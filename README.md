@@ -1,4 +1,4 @@
 Paper
 =======
 
-Collection and excerpt of small projects, reports and papers.
+Selection of small projects, reports and papers.
