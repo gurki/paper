@@ -1,4 +1,4 @@
-various
+Paper
 =======
 
-collection of small projects, reports and papers
+Collection and excerpt of small projects, reports and papers.
